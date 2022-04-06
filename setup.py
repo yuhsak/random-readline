@@ -15,4 +15,5 @@ setup(
     download_url="https://github.com/yuhsak/random-readline",
     description="Randomized fast readline for large text files.",
     long_description=Path("README.md").read_text(),
+    long_description_content_type="text/markdown",
 )
